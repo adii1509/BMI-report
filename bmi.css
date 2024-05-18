@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    border-color: green;
+}
+button{
+    color:black
+}
+h2{
+    text-align: center;
+}
+h5{
+    color:green;
+    text-align: center;
+    background-color: aliceblue;
+
+}
+body{
+    background-color: #212121;
+    color: gainsboro;
+}
